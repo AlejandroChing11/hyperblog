@@ -7,3 +7,5 @@ En este curso damos de todo:
 *El flujo de trabajo en Github.
 *El verdadero amor por las buenas prácticas.
 *por el verdadero alejandro
+*incluye ejemplos en windows y mac
+*disponible para todas las edades.
