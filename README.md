@@ -6,4 +6,4 @@ En este curso damos de todo:
 *Todos los comandos de git.
 *El flujo de trabajo en Github.
 *El verdadero amor por las buenas prácticas.
-
+*por el verdadero alejandro
